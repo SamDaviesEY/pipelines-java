@@ -6,7 +6,8 @@ public class MyTest {
     public void test_method_1() {
         Demo d = new Demo();
         System.out.println("Well hello...");
-        console.log("Well, this is the wrong language!")
+        //Fail test worked
+        //console.log("Well, this is the wrong language!")
         d.DoSomething(true);
         
     }
