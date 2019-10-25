@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/EAC-DEMO/tutorialProject/_apis/build/status/SamDaviesEY.pipelines-java?branchName=master)](https://dev.azure.com/EAC-DEMO/tutorialProject/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
