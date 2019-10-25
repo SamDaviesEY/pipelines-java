@@ -5,7 +5,9 @@ public class MyTest {
     @Test
     public void test_method_1() {
         Demo d = new Demo();
+        System.out.println("Well hello...");
         d.DoSomething(true);
+        
     }
 
     @Test
